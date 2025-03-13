@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Leo"
 description              : &description "personal description"
 url                      : https://tingruew.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Leo Wei"
   pronouns         : # example: "she/her"  
-  bio              : "2nd Year PhD Student in Computer Science"
+  bio              : "2nd Year PhD Student in \n Computer Science and Engineering"
   location         : "Santa Clara, CA, USA"
   employer         : "Santa Clara University"
   uri              : # URL
