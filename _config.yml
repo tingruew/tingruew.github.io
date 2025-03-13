@@ -25,7 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Leo Wei"
   pronouns         : # example: "she/her"  
-  bio              : "2nd Year PhD Student in \n Computer Science and Engineering"
+  bio              : | 
+              "2nd Year PhD Student in
+              Computer Science and Engineering"
   location         : "Santa Clara, CA, USA"
   employer         : "Santa Clara University"
   uri              : # URL
