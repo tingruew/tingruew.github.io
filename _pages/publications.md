@@ -14,7 +14,7 @@ author_profile: true
 ---
 
 ## **Survey: Diffusion Models in Recommendation Systems**
-![](../images/publications/diffusionrecsys.png)
+<img src="../images/publications/diffusionrecsys.png" alt="Project Image" width="300" />
 
 **Description:**  
 This project is focused on [briefly describe the core function or objective of the project]. I built this project using [technologies/tools used]. It serves to [mention the purpose or what problem it solves].
