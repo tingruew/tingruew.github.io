@@ -14,17 +14,22 @@ author_profile: true
 ---
 
 ## **Survey: Diffusion Models in Recommendation Systems**
-<img src="../images/publications/diffusionrecsys.png" alt="Project Image" width="300" />
+[[Arxiv Paper]](https://arxiv.org/pdf/2501.10548) [[GitHub]](https://github.com/tingruew/DiffusionModels-In-RecSys)
 
-**Description:**  
-This project is focused on [briefly describe the core function or objective of the project]. I built this project using [technologies/tools used]. It serves to [mention the purpose or what problem it solves].
+As diffusion models demonstrate exceptional ability at handling complex data distributions, we examine its application in recommendation systems to model user-item interactions and comprehensively survey existing papers in this domain.
+We propose a taxonomy to categorize based on the type of recommendation task and the specific objective, as shown below. 
+<p align="center">
+<img src="../images/publications/diffusionrecsys.png" alt="Project Image" width="800" />
+</p>
 
 ---
 
-## **Survey: Math Reasoning**
-![](../images/publications/mathreasoning.png)
+## **Survey: Multi-step LLM Math Reasoning**
+[[Arxiv Paper]](https://arxiv.org/pdf/2502.14333) [[GitHub]](https://github.com/tingruew/Feedback-based-Multi-step-LLM-Math-Reasoning)
 
-**Description:**  
-This project is focused on [briefly describe the core function or objective of the project]. I built this project using [technologies/tools used]. It serves to [mention the purpose or what problem it solves].
+With chain-of-thought enhancing the LLM performance through multi-step reasoning, models try to integrate this multi-step process within itself. We study how stepwise feedback faciliates this in existing papers with a focus on mathemtics due to its logical nature and the large volume of research in the field, and we propose a taxonomy below.
+<p align="center">
+<img src="../images/publications/mathreasoning.png" alt="Project Image" width="600" />
+</p>
 
 ---
