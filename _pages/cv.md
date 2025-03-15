@@ -15,7 +15,7 @@ Education
 * M.A. in Statistics, University of California Berkeley, 2021
 * B.S. in Data Science, University of California Irvine, 2020
 
-Work experience
+Experience
 ======
 * Visiting Researcher @ DOCOMO Innovations
 
