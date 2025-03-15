@@ -22,7 +22,7 @@ We propose a taxonomy to categorize based on the type of recommendation task and
 <img src="../images/publications/diffusionrecsys.png" alt="Project Image" width="800" />
 </p>
 
----
+<hr style="border: 2px solid black;" />
 
 ## **Survey: Multi-step LLM Math Reasoning**
 [[Arxiv Paper]](https://arxiv.org/pdf/2502.14333) [[GitHub]](https://github.com/tingruew/Feedback-based-Multi-step-LLM-Math-Reasoning)
