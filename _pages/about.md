@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome to my page! 
+## Welcome to my page! 
 
 I'm a current PhD student in Computer Science and Engineering at Santa Clara Unviersity.
 
