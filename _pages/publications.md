@@ -14,7 +14,7 @@ author_profile: true
 ---
 
 ## **Survey: Multi-step LLM Math Reasoning**
-[[Arxiv Paper]](https://arxiv.org/pdf/2502.14333) [[GitHub]](https://github.com/tingruew/Feedback-based-Multi-step-LLM-Math-Reasoning)
+[[Arxiv]](https://arxiv.org/pdf/2502.14333) [[GitHub]](https://github.com/tingruew/Feedback-based-Multi-step-LLM-Math-Reasoning)
 
 <div style="display: flex; align-items: center;">
   <img src="../images/publications/mathreasoning.png" width="400" style="margin-right: 20px;" />
@@ -24,7 +24,7 @@ author_profile: true
 <hr style="border: 2px solid black;" />
 
 ## **Survey: Diffusion Models in Recommendation Systems**
-[[Arxiv Paper]](https://arxiv.org/pdf/2501.10548) [[GitHub]](https://github.com/tingruew/DiffusionModels-In-RecSys)
+[[Arxiv]](https://arxiv.org/pdf/2501.10548) [[GitHub]](https://github.com/tingruew/DiffusionModels-In-RecSys)
 
 <div style="display: flex; align-items: center;">
   <img src="../images/publications/diffusionrecsys.png" width="400" style="margin-right: 20px;" />
@@ -35,11 +35,11 @@ We propose a taxonomy to categorize based on the type of recommendation task and
 <hr style="border: 2px solid black;" />
 
 ## **Table Transformers for Imputing Textual Attributes**
-[[Pattern Recognition Letters Paper]](https://www.sciencedirect.com/science/article/pii/S0167865524002782) [[GitHub]](https://github.com/tingruew/TTITA-Text-Imputation)
+[[Pattern Recognition Letters]](https://arxiv.org/pdf/2408.02128) [[GitHub]](https://github.com/tingruew/TTITA-Text-Imputation)
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/publications/diffusionrecsys.png" width="400" style="margin-right: 20px;" />
-  <p>With chain-of-thought enhancing the LLM performance through multi-step reasoning, models try to integrate this multi-step process within itself. We study how stepwise feedback faciliates this in existing papers with a focus on mathemtics due to its logical nature and the large volume of research in the field, and we propose a taxonomy below.</p>
+  <img src="../images/publications/ttita.png" width="400" style="margin-right: 20px;" />
+  <p>The quality of machine learning model predictions often depends on the completeness of training data. As previous work focus on numeric and categorical attributes, we develope a novel pipeline to fill in missing data for textual attributes.</p>
 </div>
 
 <hr style="border: 2px solid black;" />
