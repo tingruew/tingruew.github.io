@@ -16,7 +16,7 @@ author_profile: true
 ## **Survey: Multi-step LLM Math Reasoning**
 [[Arxiv]](https://arxiv.org/pdf/2502.14333) [[GitHub]](https://github.com/tingruew/Feedback-based-Multi-step-LLM-Math-Reasoning)
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; background-color: #f9f9f9; border: 1px solid #ddd; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
   <img src="../images/publications/mathreasoning.png" width="400" style="margin-right: 20px;" />
   <p>With chain-of-thought enhancing the LLM performance through multi-step reasoning, models try to integrate this multi-step process within itself. We study how stepwise feedback facilitates this in existing papers with a focus on mathematics due to its logical nature and the large volume of research in the field. We propose a taxonomy based on the existence of training and the structure of feedback.</p>
 </div>
