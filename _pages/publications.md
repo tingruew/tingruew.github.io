@@ -29,8 +29,7 @@ author_profile: true
   <p>As diffusion models demonstrate exceptional ability at handling complex data distributions, we examine its application in recommendation systems to model user-item interactions and comprehensively survey existing papers in this domain. We propose a taxonomy to categorize based on the type of recommendation task and the specific objective. </p>
 </div>
 
-<hr style="border: 2px solid black; margin-top: 5px; margin-bottom: 5px;" />
-
+<hr style="border: 2px solid black; margin-top: 5px; margin-bottom: 5px;" /><br>
 ### **Table Transformers for Imputing Textual Attributes** [[Pattern Recognition Letters]](https://arxiv.org/pdf/2408.02128) [[GitHub]](https://github.com/tingruew/TTITA-Text-Imputation)
 
 <div style="display: flex; align-items: center;">
