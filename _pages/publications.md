@@ -13,7 +13,7 @@ author_profile: true
 
 ---
 
-### **Survey: Multi-step LLM Math Reasoning**<br>
+### **Survey: Multi-step LLM Math Reasoning**
 <a href="https://arxiv.org/pdf/2502.14333" target="_blank" style="font-size: 12px">[Arxiv]</a> | 
 <a href="https://github.com/tingruew/Feedback-based-Multi-step-LLM-Math-Reasoning" target="_blank" style="font-size: 12px">[GitHub]</a>
 
@@ -24,8 +24,7 @@ author_profile: true
 
 <hr style="border: 2px solid black;" />
 
-### **Survey: Diffusion Models in Recommendation Systems**
-[[Arxiv]](https://arxiv.org/pdf/2501.10548) [[GitHub]](https://github.com/tingruew/DiffusionModels-In-RecSys)
+### **Survey: Diffusion Models in Recommendation Systems** [[Arxiv]](https://arxiv.org/pdf/2501.10548) [[GitHub]](https://github.com/tingruew/DiffusionModels-In-RecSys)
 
 <div style="display: flex; align-items: center;">
   <img src="../images/publications/diffusionrecsys.png" width="400" style="margin-right: 20px;" />
