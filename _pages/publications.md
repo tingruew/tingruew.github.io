@@ -5,6 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">More information can be found on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
+{% endif %}
+
 ---
 
 ## **Survey: Multi-step LLM Math Reasoning**
@@ -37,3 +43,10 @@ author_profile: true
 
 <hr style="border: 2px solid black;" />
 
+## **Breast Cancer Detection on Dual-View Sonography via Data-Centric Deep Learning**
+[[IEEE OJEMB]](https://ieeexplore.ieee.org/abstract/document/10666269)
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/publications/BC.png" width="400" style="margin-right: 20px;" />
+  <p>By training a deep learning model based on DenseNet, we achieve high performance in classifying benign and malignant breast masses under radial and anti-radial views, outperforming a radiologist by a large margin. Additionally, we find better performance from the radiologist when the model's predictions are incorporated into the human decision process.</p>
+</div>
