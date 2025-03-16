@@ -47,6 +47,6 @@ author_profile: true
 [[IEEE OJEMB]](https://ieeexplore.ieee.org/abstract/document/10666269)
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/publications/bc.png" width="400" style="margin-right: 20px;" />
+  <img src="../images/publications/bc.jpg" width="400" style="margin-right: 20px;" />
   <p>By training a deep learning model based on DenseNet, we achieve high performance in classifying benign and malignant breast masses under radial and anti-radial views, outperforming a radiologist by a large margin. Additionally, we find better performance from the radiologist when the model's predictions are incorporated into the human decision process.</p>
 </div>
