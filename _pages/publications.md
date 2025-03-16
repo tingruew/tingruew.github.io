@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
+
+## Research
 
 {% include base_path %}
 <div class="wordwrap">More information can be found on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
