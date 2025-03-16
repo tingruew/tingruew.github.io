@@ -39,7 +39,7 @@ We propose a taxonomy to categorize based on the type of recommendation task and
 
 <div style="display: flex; align-items: center;">
   <img src="../images/publications/ttita.png" width="400" style="margin-right: 20px;" />
-  <p>The quality of machine learning model predictions often depends on the completeness of training data. As previous work focus on numeric and categorical attributes, we develope a novel pipeline to fill in missing data for textual attributes.</p>
+  <p>The quality of machine learning model predictions often depends on the completeness of training data. As previous work focus on numeric and categorical attributes, we develope a novel pipeline to fill in missing data for textual attributes with encoder and transformer models.</p>
 </div>
 
 <hr style="border: 2px solid black;" />
