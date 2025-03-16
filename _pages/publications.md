@@ -15,7 +15,7 @@ author_profile: true
 
 ### **Survey: Multi-step LLM Math Reasoning** [[Arxiv]](https://arxiv.org/pdf/2502.14333) [[GitHub]](https://github.com/tingruew/Feedback-based-Multi-step-LLM-Math-Reasoning)
 
-<div style="display: flex; align-items: center; background-color: #f0f0f0; border: 1px solid #ddd; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+<div style="display: flex; align-items: center;">
   <img src="../images/publications/mathreasoning.png" width="400" style="margin-right: 20px;" />
   <p>With chain-of-thought enhancing the LLM performance through multi-step reasoning, models try to integrate this multi-step process within itself. We study how stepwise feedback facilitates this in existing papers with a focus on mathematics due to its logical nature and the large volume of research in the field. We propose a taxonomy based on the existence of training and the structure of feedback.</p>
 </div>
@@ -29,7 +29,7 @@ author_profile: true
   <p>As diffusion models demonstrate exceptional ability at handling complex data distributions, we examine its application in recommendation systems to model user-item interactions and comprehensively survey existing papers in this domain. We propose a taxonomy to categorize based on the type of recommendation task and the specific objective. </p>
 </div>
 
-<hr style="border: 2px solid black;" />
+<hr style="border: 2px solid black; margin-top: 5px; margin-bottom: 5px;" />
 
 ### **Table Transformers for Imputing Textual Attributes** [[Pattern Recognition Letters]](https://arxiv.org/pdf/2408.02128) [[GitHub]](https://github.com/tingruew/TTITA-Text-Imputation)
 
