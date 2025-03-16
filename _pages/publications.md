@@ -13,9 +13,7 @@ author_profile: true
 
 ---
 
-### **Survey: Multi-step LLM Math Reasoning**
-<a href="https://arxiv.org/pdf/2502.14333" target="_blank" style="font-size: 12px">[Arxiv]</a> | 
-<a href="https://github.com/tingruew/Feedback-based-Multi-step-LLM-Math-Reasoning" target="_blank" style="font-size: 12px">[GitHub]</a>
+### **Survey: Multi-step LLM Math Reasoning** [[Arxiv]](https://arxiv.org/pdf/2502.14333) [[GitHub]](https://github.com/tingruew/Feedback-based-Multi-step-LLM-Math-Reasoning)
 
 <div style="display: flex; align-items: center; background-color: #f0f0f0; border: 1px solid #ddd; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
   <img src="../images/publications/mathreasoning.png" width="400" style="margin-right: 20px;" />
@@ -33,18 +31,16 @@ author_profile: true
 
 <hr style="border: 2px solid black;" />
 
-### **Table Transformers for Imputing Textual Attributes**
-[[Pattern Recognition Letters]](https://arxiv.org/pdf/2408.02128) [[GitHub]](https://github.com/tingruew/TTITA-Text-Imputation)
+### **Table Transformers for Imputing Textual Attributes** [[Pattern Recognition Letters]](https://arxiv.org/pdf/2408.02128) [[GitHub]](https://github.com/tingruew/TTITA-Text-Imputation)
 
 <div style="display: flex; align-items: center;">
   <img src="../images/publications/ttita.png" width="400" style="margin-right: 20px;" />
   <p>Data science leverages models to understand the data, and the quality of machine learning model predictions often depends on the completeness of training data. As previous work focus on numeric and categorical attributes, we develope a novel pipeline to fill in missing data for textual attributes with encoder and transformer models.</p>
 </div>
 
-<hr style="border: 2px solid black;" />
+<hr style="border: 2px solid black; line-height=0.5;" />
 
-### **Breast Cancer Detection on Dual-View Sonography via Data-Centric Deep Learning**
-[[IEEE OJEMB]](https://ieeexplore.ieee.org/abstract/document/10666269)
+### **Breast Cancer Detection on Dual-View Sonography via Data-Centric Deep Learning** [[IEEE OJEMB]](https://ieeexplore.ieee.org/abstract/document/10666269)
 
 <div style="display: flex; align-items: center;">
   <img src="../images/publications/bc.jpg" width="400" style="margin-right: 20px;" />
