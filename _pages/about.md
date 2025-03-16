@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Education History
-======
-- University of California Irvine
+### About me
+A Current PhD student in Computer Science and Engineering at Santa Clara Unviersity
+
