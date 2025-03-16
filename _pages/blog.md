@@ -1,10 +1,11 @@
 ---
 layout: archive
 permalink: /blog/
-title: "Blog posts"
+title: ""
 author_profile: true
 ---
 
+## Blog posts
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
